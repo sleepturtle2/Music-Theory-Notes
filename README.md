@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 **Diminished Chords:**
 
 Basic Diminished Harmony is (1,b3,b5). 
@@ -46,7 +40,9 @@ Typically used as a transition/bridge chord. Examples:
 
 - In blues, it is used along with the I7 chord, ie, I7-Idim in the same bar, to add more effect 
 
-**Note**: Interesting fact about the diminished shape is that when you slide it up 3 frets, you still get the same chords, just different order of notes. 
+- Of the 4 notes in a diminished chord, you can step up a semitone in any of those 4 tones, and move to resolution. So from one dim chord, we can have 4 resolutions. 
+
+- Interesting fact about the diminished shape is that when you slide it up 3 frets, you still get the same chords, just different order of notes. 
 
 **Practice Progressions**: 
 - Am | C6 | B half dim | E7 (Bossa Nova)
