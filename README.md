@@ -1,7 +1,7 @@
 
 **Diminished Chords:**
 
-Basic Diminished Harmony is (1,b3,b5). 
+Basic Diminished Triad Harmony is (1,b3,b5). 
 Chords are built from triads in the major scale. For eg, C scale (C-D-E-F-G-A-B-C), Cdim would be C, D#, F# (1,b3,b5)
 
 ![C diminished chord](./images/C%20dim.png "C diminished chord")
@@ -38,12 +38,18 @@ Typically used as a transition/bridge chord. Examples:
 
 - In a I-IV-I progression, use IV#dim as a bridge chord before moving into I. ie, I - IV - IV#dim - I instead of just I-IV-I. 
 
+- Similarly, in I-ii we can add I-bii dim7-ii. 
+
 - In blues, it is used along with the I7 chord, ie, I7-Idim in the same bar, to add more effect 
 
 - Of the 4 notes in a diminished chord, you can step up a semitone in any of those 4 tones, and move to resolution. So from one dim chord, we can have 4 resolutions. 
 
-- Interesting fact about the diminished shape is that when you slide it up 3 frets, you still get the same chords, just different order of notes. 
+- We have these options for diminshed chords to use as bridge chords. One between I and ii can be used between vi and vii etc.
+![options for diminished chords](./images/Diminished%20chords%20options.png)
+
+- Interesting fact about the diminished shape (applicable to all shapes ) is that when you slide it up 3 frets, you still get the same chords, just different order of notes. This happens due to the fact that each note of a diminished chord is separated from each other by a minor third interval, ie, 3 frets. 
 
 **Practice Progressions**: 
 - Am | C6 | B half dim | E7 (Bossa Nova)
+- C / F / C / Db dim7 / Dm / G 
 - D9 | Eb full dim | A7 (blues progression in A)
