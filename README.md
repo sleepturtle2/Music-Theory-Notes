@@ -5,7 +5,7 @@
 
 
 
-Diminished Chords:
+**Diminished Chords:**
 
 Basic Diminished Harmony is (1,b3,b5). 
 Chords are built from triads in the major scale. For eg, C scale (C-D-E-F-G-A-B-C), Cdim would be C, D#, F# (1,b3,b5)
