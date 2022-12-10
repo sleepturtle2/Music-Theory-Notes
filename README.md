@@ -1,7 +1,13 @@
 
 **[Diminished Chords](https://www.fretjam.com/diminished-7th-chords.html):**
 
-Basic Diminished Triad Harmony is (1,b3,b5). Cdim would be C, Eb, Gb (1,b3,b5)
+There are 3 kinds of Diminished Chords: 
+- Diminished Triad (dim) - 1, b3, b5 
+- Half Diminished (m7b5) - 1, b3, b5, b7
+- Diminished 7th / Full Diminished (dim7) - 1, b3, b5, bb7 (dim7)
+
+
+Diminished Triad Harmony is (1,b3,b5). Cdim would be C, Eb, Gb (1,b3,b5)
 
 ![C diminished chord](./images/C%20dim.png "C diminished chord")
 
@@ -58,7 +64,7 @@ Properties:
  Db | E  | G   | Bb 
  D  | F  | Ab | B   
 
-- Resolves into both major and minor. So for every dim7 chord, we have 8 options to resolve it. 
+- **Resolution** - Resolves into both major and minor. So for every dim7 chord, we have 8 options to resolve it. 
 For chords of a major scale, the 7th chord is a diminished triad, but in practice we can use the full dim 7 shape (with the added 6th) and use it to resolve to I. 
 
     A C<sup>o</sup> 7 can resolve into Db (I)  
@@ -76,7 +82,7 @@ Now, since every dim7 chord has 4 inversions around its 4 base notes, every such
     D<sup>o</sup> 7 <-> Ab<sup>o</sup> 7 -> Gbm (DOWN a 1 step to a minor chord)<br>
     D<sup>o</sup> 7 <-> B<sup>o</sup> 7 -> C (UP a 1/2 step to a major chord)<br>
     D<sup>o</sup> 7 <-> B<sup>o</sup> 7 -> Am (DOWN a 1 step to a minor chord)<br>
-
+- Using the above relations, the dim7 chords can be used effectively to change keys in a song, using them as bridge chords
 
 
  
