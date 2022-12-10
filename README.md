@@ -1,29 +1,29 @@
 
-**Diminished Chords:**
+**[Diminished Chords](https://www.fretjam.com/diminished-7th-chords.html):**
 
-Basic Diminished Triad Harmony is (1,b3,b5). 
-Chords are built from triads in the major scale. For eg, C scale (C-D-E-F-G-A-B-C), Cdim would be C, D#, F# (1,b3,b5)
+Basic Diminished Triad Harmony is (1,b3,b5). Cdim would be C, Eb, Gb (1,b3,b5)
 
 ![C diminished chord](./images/C%20dim.png "C diminished chord")
 
 
 
 Half-Diminished Chords: (1,b3,b5,b7)
-(Also known as a minor 7 flat 5 chord). So a C half diminished chord would have an added Bb note, ie, (C,D#,F,Bb)
+(Also known as a minor 7 flat 5 chord). So a C half diminished chord would have an added Bb note, ie, (C,Eb,Gb,Bb)
 
 ![C half diminished chord](./images/C%20half%20dim.png "C half diminished chord")
 
 
-Full-Diminished Chords: (1,b3,b5,bb7) or (1,b3,b5,6)
+Full-Diminished or Diminished 7 Chords: (1,b3,b5,bb7) or (1,b3,b5,6)
 Double flat 7th note means the 6th note of a major scale. 
 ![C full diminished chord](./images/C%20full%20dim.png "C full diminished chord")
 
 
 Full Dimished Chord Shapes Across the Fretboard: 
-1. Root on the E string: 
+
+1. Root on the E string (Only in Cdim7 you can use open A string): 
 ![C full diminished](./images/C%20full%20dim%20(Root%20on%206).png)
 
-2. Root on A string: 
+2. Root on A string
 ![C full diminished](./images/C%20full%20dim%20(Root%20on%205).png)
 
 3. Root on D string: 
@@ -49,6 +49,37 @@ Typically used as a transition/bridge chord. Examples:
 
 - Interesting fact about the diminished shape (applicable to all shapes ) is that when you slide it up 3 frets, you still get the same chords, just different order of notes. This happens due to the fact that each note of a diminished chord is separated from each other by a minor third interval, ie, 3 frets. 
 
+Properties: 
+- Every note is a minor third (3 half steps) apart. The chord repeats itself after every b3 interval (3 frets). dim7 chords in the same row are the same. 
+
+1   | 4  | 7   | 10            
+----|----|-----|----
+ C  | Eb | Gb  | A
+ Db | E  | G   | Bb 
+ D  | F  | G\# | B   
+
+- Resolves into both major and minor. So for every dim7 chord, we have 8 options to resolve it. 
+For chords of a major scale, the 7th chord is a diminished triad, but in practice we can use the full dim 7 shape (with the added 6th) and use it to resolve to I. 
+
+    A C<sup>o</sup> 7 can resolve into Db (I)  
+In a minor scale, (i ii<sup>o</sup> III iv v VI VII) the second chord is a diminished chord. So a C<sup>o</sup> 7 (ii<sup>o</sup> chord for Bbm) would resolve into a Bbm (I). 
+
+In summary, we can **Resolve UP a 1/2 step to a major chord** or **Resolve DOWN a 1 step to a minor chord**.
+
+Now, since every dim7 chord has 4 inversions around its 4 base notes, every such chord can resolve to their respective major and minor tonal centres. For eg, <br>
+    to resolve D<sup>o</sup> 7, containing notes D F Ab B, <br>
+    D<sup>o</sup> 7-> Eb (UP a 1/2 step to a major chord)<br>
+    D<sup>o</sup> 7 -> Cm (DOWN 1 step to a minor chord)<br>
+    D<sup>o</sup> 7 <-> F<sup>o</sup> 7 -> Gb (UP a 1/2 step to a major chord)<br>
+    D<sup>o</sup> 7 <-> F<sup>o</sup> 7 -> Ebm (DOWN a 1 step to a minor chord)<br>
+    D<sup>o</sup> 7 <-> Ab<sup>o</sup> 7 -> A (UP a 1/2 step to a major chord)<br>
+    D<sup>o</sup> 7 <-> Ab<sup>o</sup> 7 -> Gbm (DOWN a 1 step to a minor chord)<br>
+    D<sup>o</sup> 7 <-> B<sup>o</sup> 7 -> C (UP a 1/2 step to a major chord)<br>
+    D<sup>o</sup> 7 <-> B<sup>o</sup> 7 -> Am (DOWN a 1 step to a minor chord)<br>
+
+
+
+ 
 **Practice Progressions**: 
 - Am | C6 | B half dim | E7 (Bossa Nova)
 - C / F / C / Db dim7 / Dm / G 
