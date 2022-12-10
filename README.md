@@ -47,7 +47,7 @@ Typically used as a transition/bridge chord. Examples:
 - We have these options for diminshed chords to use as bridge chords. One between I and ii can be used between vi and vii etc.
 ![options for diminished chords](./images/Diminished%20chords%20options.png)
 
-- Interesting fact about the diminished shape (applicable to all shapes ) is that when you slide it up 3 frets, you still get the same chords, just different order of notes. This happens due to the fact that each note of a diminished chord is separated from each other by a minor third interval, ie, 3 frets. 
+- Interesting fact about the diminished shape (applicable to all shapes ) is that when you slide it up 3 frets, you still get the same chords, just different order of notes. This happens due to the fact that each note of a diminished chord is separated from each other by a minor third interval, ie, 3 frets. This is called a symmetric chord (because every note can be used a a root)
 
 Properties: 
 - Every note is a minor third (3 half steps) apart. The chord repeats itself after every b3 interval (3 frets). dim7 chords in the same row are the same. 
@@ -56,7 +56,7 @@ Properties:
 ----|----|-----|----
  C  | Eb | Gb  | A
  Db | E  | G   | Bb 
- D  | F  | G\# | B   
+ D  | F  | Ab | B   
 
 - Resolves into both major and minor. So for every dim7 chord, we have 8 options to resolve it. 
 For chords of a major scale, the 7th chord is a diminished triad, but in practice we can use the full dim 7 shape (with the added 6th) and use it to resolve to I. 
