@@ -1,9 +1,12 @@
 **Circle of Fifths**
 
 ![Circle of Fifths](./images/circle-of-fifths.png)
+
+
 Almost all of music theory is based on the major scale interval pattern, W W H W W W H. Here a major pattern emerges in the fifth note of the scale. 
 
 Order of sharps: F C G D A E B (Fat Cats Get Drunk At Eddie's Bar)
+
 Order of flats: B E A D G C F (BEAD GCF)
 
 - All notes in the major scale of the Fifth note has the same notes as the root, except one note. For example, C major(12 o clock. 12 - 12 = 0) has no sharps or flats in its scale. Fifth of C is G. G (1 o clock, 1 - 12 = 1 (modular)) has only one sharp in its scale, F (ie F#). Fifth of G is D, which has two sharps in its scale, F and C (ie F# & C#).
