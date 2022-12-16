@@ -1,5 +1,6 @@
 **Circle of Fifths**
 
+![Circle of Fifths](./images/circle-of-fifths.png)
 Almost all of music theory is based on the major scale interval pattern, W W H W W W H. Here a major pattern emerges in the fifth note of the scale. 
 
 Order of sharps: F C G D A E B (Fat Cats Get Drunk At Eddie's Bar)
