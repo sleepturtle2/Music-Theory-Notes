@@ -5,7 +5,11 @@
 
 Almost all of music theory is based on the major scale interval pattern, W W H W W W H. Here a major pattern emerges in the fifth note of the scale. 
 
-Order of sharps: F C G D A E B (Fat Cats Get Drunk At Eddie's Bar)
+Moving clockwise, we get 5ths Ascending and 4ths Descending. 
+
+Moving anti-clockwise, we get 4ths Ascending and 5ths Descending. 
+
+Order of sharps: F C G D A E B (Father Charles Goes Down And Ends Battle)
 
 Order of flats: B E A D G C F (BEAD GCF)
 
@@ -17,7 +21,7 @@ Order of flats: B E A D G C F (BEAD GCF)
     - Once we reach 7 o clock, we need to move to the order of flats. Instead of counting up, we're gonna count down. Db is at 7 o clock. 12 - 7 = 5. So start counting from 5 o clock and go backwards 5 steps. Flats are B, E, A, D, G.
     - The letter under the major scale notes are the relative minor notes (sixth scale notes). Relative minor scales (vi) have the same notes as the root major scale (I). For example, notes in Am and C are the same.  
 
-**Exercise:** (sharps = 12 - flats / flats = 12 - sharps)
+**Constructing the Major Scale:** (sharps = 12 - flats / flats = 12 - sharps)
 
 1. 12 o clock -> C. 12 - 12 = 0. So C has 0 sharps or flats.  
 2. 1 o clock -> G (V of C). In the order of sharps, 1 o clock = 13. So 13 - 12 = 1. G has 1 sharp. F#, starting from 11 o clock.  
@@ -35,3 +39,24 @@ Rule changes (Only for convenience, too many sharps now) To calculate flats, mov
 10. 9 o clock -> Eb (V of Ab). 12 - 9 = 3. 3 flats, B,E,A
 11. 10 o clock -> Bb (V of Eb). 12 - 10 = 2, 2 flats, B,E
 12. 11 o clock -> F (V of Bb). 12 - 11 = 1, 1 flat, B.
+
+Check all major key notes [here](https://www.guitarlessonworld.com/resources/list-of-major-scale-notes/)
+
+
+**Constructing Diatonic Chords for Major Scale:**
+- Move up in notes  one by one, select the respective chords. For example, for C, C Dm Em F G Am B<sup>o</sup>(not listed here)
+
+**Constructing the Minor Scale:**
+- Notes can be constructed using the same method as above individually. 
+- You can use the relative major scale for the same notes. 
+- For eg, Am scale would be: Am B<sup>o</sup> C Dm Em F G Am
+
+**Transposing:**
+- One can transpose both notes and chords using the circle 
+
+
+Constructing the Circle of Fifths: 
+- Make hour 12 hour positions. 
+- From 11 o clock position, start with order of sharps, ie F C G D A E B. B ends at 5 o clock position. 
+- Now from 10 o clock position, start with the order of flats. Put a flat for each note, ie, (going anti-clockwise) Bb, Eb, Ab, Db, Gb, Cb, Fb. (Cb/Fb are reduntant as there already is B and E on the circle)
+- For constructing the relative minor scale, move the notes 3 places counter-clockwise, ie A aligns with C, E with G and so on.
