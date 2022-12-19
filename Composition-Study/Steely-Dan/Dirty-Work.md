@@ -25,3 +25,4 @@ Study:
 - In verse, the main melody lines, can be joined in two ways. When there is a sense of continuity, use V-IV combo. When wanting to shift to another melody line, use iim7. 
 - The iii chord is not used in the verse-intro progressions. Brings variety in bridge.
 - iim7 works as bridge for vi - I, and V - I 
+- Lead solo is in vi pentatonic scale 
