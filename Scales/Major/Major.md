@@ -6,6 +6,14 @@ Interval Relation: W W H W W W H
 Chord relation: M  m   m   M   M  m   dim7 
                 I  ii iii  IV  V  vi  vii
 
+Major Scale intervals: 
+- Root
+- Major 2nd 
+- Major 3rd 
+- Perfect 4th 
+- Perfect 5th 
+- Major 6th 
+- Major 7th 
 
 **Coloring the Chords further:**
 MAJOR SCALE CHORDS – SEVENTHS
