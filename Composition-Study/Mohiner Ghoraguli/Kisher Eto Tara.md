@@ -22,4 +22,10 @@ Section 3 - A major (A-D-E) (I-IV-V)
 - Happy major-only section
 
 Section 4 - A major (F#m-C#m-Bm) (vi-iii-ii)
-- Transition - Abrupt shift into Bm and F#m. Shift does not feel smooth. I dont know if that is intended.  
+- Transition - Abrupt shift into Bm and F#m. Shift does not feel smooth. I dont know if that is intended. 
+
+
+
+
+
+
